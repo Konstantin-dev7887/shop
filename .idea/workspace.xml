@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15f59d98-91ef-46c4-b9b3-08e8b1836b85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/product_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/product_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/product_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
